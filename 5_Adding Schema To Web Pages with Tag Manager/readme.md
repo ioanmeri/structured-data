@@ -24,6 +24,7 @@ _Google Tag Manager ID => "GTM-M6GC6K7"_
 
 ## Tags and Triggers
 * Create a tag, that contains the JSON-LD
+	* New
 	* Custom HTML
 	* Insert JSON-LD
 		* Paste the code from [script helper](https://yoa.st/json/) 
@@ -45,3 +46,32 @@ To link them, go back to the created Tag:
 * Preview
 * Go to your website
 	* Shows in the preview what is being used
+
+
+## Variables
+instead of having 100 different JSON-LD with same structure
+
+e.g.
+the headline and url will be automaticallly pulled from the web page
+
+How to take Article name from the webpage **h1** directly:
+* Tag Manager
+* Variables
+* New (Title)
+* DOM Element
+	* CSS Selector
+	* h1
+	* Save
+
+every time the h1 is found in the page, the title will have the content of h1
+
+* Back to Tag
+
+From
+```
+"name": "Hello World"
+```
+to
+```
+"name": "{{Title}}"
+```

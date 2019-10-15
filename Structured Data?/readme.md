@@ -1,7 +1,7 @@
 # Structured Data?
-* Google wants to unserstang what your web page is about
+* Google wants to understand what your web page is about
 * You can include "structured data" in your web page to tell Google a lot more details about your page.
-* Structred data simply means information (data) that has beed organised (structured)
+* Structured data simply means information (data) that has been organised (structured)
 * Google will take the structured data you have provided for a page, and use it to enhance the result in the SERPs. However, there is no guarantee Google will show structured data in th SERPs for a particular page.
 
 _SERP: Search Engine Results Page_
@@ -14,12 +14,12 @@ If a page has structured data, Google can provide a **"rich snippet"**.
 	* Num of reviews
 	* e.g. Film
 		* rating
-		* runtime
+		* run time
 		* when in theaters
 		* Genre
 
 
-Structured Data is an integral part of modern SEO. While it **won't** itself help you **rank better** for your chosen keywords, it should increase **CTR**, which can. But because Google can better understand your content, it can help you **get ranked**.
+Structured Data is an integral part of modern SEO. While it **won't** itself help you **rank better** for your chosen keywords, it should **increase CTR**, which can. But because Google can better understand your content, it can help you **get ranked**.
 
 As with all SEO, don't try to trick the search engines. Spammy structured data can get a manual penalty. Your page HAS to be the best for the search query if it is going to be #1.
 
@@ -27,8 +27,8 @@ We have been focusing on Google, but remember that SD can be read by Google, Fac
 
 * Glossary attached, because there is a lot of vocabulary that goes with the topic.
 
-# How Google uses structrured Data?
-* Breadcrumps
+# How Google uses structured Data?
+* Breadcrumbs
 * Rating
 * Video in the listing (not only youtube)
 * Recipes
@@ -64,9 +64,9 @@ Tower of London:
 * Profiles
 * People also searched for
 
-elvis presley
+elvis Presley
 tomb raider...
-**wikipedia is an authoritative website**
+**Wikipedia is an authoritative website**
 
 #### The knowledge graph is built up from info of a lot authoritative sites
 * Cannot be build by a websites structured data
